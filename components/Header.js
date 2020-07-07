@@ -18,7 +18,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   headerTitle: {
-    
+    color: 'black',
+    fontSize: 19,
   },
 });
 
