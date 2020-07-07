@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
 });
 
 
-// Left off at 5:18:24
+// Left off at 5:40:23
 // Academind
 // React Native Tutorial for Beginners - Crash Course 2020
 // https://www.youtube.com/watch?v=qSRrxpdMpVc
