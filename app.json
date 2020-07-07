@@ -1,0 +1,12 @@
+{
+  "name": "rnGuessNum",
+  "displayName": "rnGuessNum",
+  "expo": {
+    "name": "rnGuessNum",
+    "slug": "rnGuessNum",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
